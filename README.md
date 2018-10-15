@@ -16,8 +16,6 @@ To run the code, you need to install the following dependencies:
 * Pandas_ml.
 * Sklearn.
 
-or use <code> requirements.txt</code> file: <br />
-<code> pip install -r requirements.txt </code>
 
 ## Data
 Datasets are not included in this project, as they are owned by other parties. However, you can prepare your own data or request the datasets used in the experiments from: 
